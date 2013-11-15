@@ -2,6 +2,8 @@
 
 use \Michelf\MarkdownExtra;
 
+if( !class_exists('Page') ){
+
 class Page extends Model {
 
 	function __construct($id=false, $table='pages') {
@@ -132,5 +134,6 @@ class Page extends Model {
 	}
 
 	}
+}
 }
 ?>
