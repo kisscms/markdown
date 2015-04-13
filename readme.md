@@ -2,7 +2,7 @@
 
 Enabling markdown syntax in _static_ pages.
 
-Supporting [KISSCMS](http://github.com/makesites/kisscms) > v2.0.0
+Supporting [KISSCMS](http://github.com/makesites/kisscms) > v2.2.0
 
 
 ## Dependencies
